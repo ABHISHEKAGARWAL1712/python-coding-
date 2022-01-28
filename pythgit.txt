@@ -1,0 +1,10 @@
+#WAP to dispaly the datatype of variable using built in fuction
+a = 12
+b = 25.5
+c = "hello"
+print(a)
+print(type(a))
+print(b)
+print(type(b))
+print(c)
+print(type(c))
